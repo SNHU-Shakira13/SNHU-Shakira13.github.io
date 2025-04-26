@@ -1,6 +1,7 @@
 body {
     background-image: url('colorful-flowers-background_869644-41.jpg');
-    background-size: cover;
+    background-size: contain;
+    background-color: indigo;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
