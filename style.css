@@ -23,8 +23,8 @@ body {
 .content {
     position: relative;
     z-index: 2; 
-    background-color: rgba(255, 255, 255, 1); /* White background behind text */
-    color: #000000; /* Black text */
+    background-color: #000000; /* White background behind text */
+    color: #FFFFFF; /* Black text */
     margin: 30px auto;
     padding: 30px;
     border-radius: 10px;
