@@ -1,0 +1,36 @@
+body {
+    background-image: url('colorful-flowers-background_869644-41.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 800px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+details summary {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+details {
+    margin-top: 20px;
+}
+
+Add custom stylesheet for background and content styling
