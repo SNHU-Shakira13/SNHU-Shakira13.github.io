@@ -13,17 +13,16 @@
 
     <p>Hi! My name is Shakira Baker and I've attended Southern New Hampshire University for about 2 years. Before attending SNHU I had already successfully completed some courses at previous colleges and through my career in the Army National Guard. This eportfolio will highlight the skills I've gained over the years throughout my computer science journey with SNHU. Below you will find a link to a code review where I thoroughly explained the starting code and the enhancements I planned to make. You will also find a description of the capstone project I completed with an explanation of how I satisfied the 3 required categories for this project which were Software Design/Engineering, Algorithms and Data Structures, and Databases. Lastly, I have added a Professional Self Assessment to further explain valuable tools that I've added to my toolkit over the years while learning at SNHU that have better prepared me to pursue various careers in the computer science field.</p>
 
-    <details open>
-        <summary>Code Review</summary>
-         <p>This is my code review providing a more in depth explanation of the project I chose to enhance and the changes I plan to make to improve the project./p>
-        <p>
-        <a href="[https://your-video-link.com](https://drive.google.com/file/d/1TppenujYq8zQyBxP8UxVRcQMRahrPOal/view?usp=drive_link)" target="_blank">Watch Code Review Part 1</a>
-        </p>
-        <p>
+<details open>
+    <summary>Code Review</summary>
+    <p>This is my code review providing a more in depth explanation of the project I chose to enhance and the changes I plan to make to improve the project.</p>
+    <p>
+        <a href="https://drive.google.com/file/d/1TppenujYq8zQyBxP8UxVRcQMRahrPOal/view?usp=drive_link" target="_blank">Watch Code Review Part 1</a>
+    </p>
+    <p>
         <a href="https://drive.google.com/file/d/1hBxWl3TuKWJgc8fN1FtX9Rb2k8O1Kxcm/view?usp=drive_link" target="_blank">Watch Code Review Part 2</a>
-        </p>
-        
-    </details>
+    </p>
+</details>     
 
     <details open>
         <summary>Project Details</summary>
