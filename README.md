@@ -16,7 +16,7 @@
     <details>
         <summary>Code Review</summary>
         <p>Code Review Pt. 1
-        <a href="https://your-video-link.com" target="_blank">Watch Code Review Part 1</a>
+        <a href="[https://your-video-link.com](https://drive.google.com/file/d/1TppenujYq8zQyBxP8UxVRcQMRahrPOal/view?usp=drive_link)" target="_blank">Watch Code Review Part 1</a>
         </p>
         
         <p>This is my code review</p>
