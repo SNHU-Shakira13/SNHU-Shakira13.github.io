@@ -39,6 +39,8 @@
 
 <p>🗄️ <b>Databases</b></p>
 <p>To satisfy the Database category, I created a database using SQLite and integrated it into the project to allow players to create accounts and save their game progress. Players can now start a new game or continue from a saved state, a feature that did not exist in the original project. I developed methods to provide full CRUD functionality and connected these methods to buttons in the WinForms UI, allowing database actions to be performed directly through user interactions. The database includes two well-structured tables, one for user login details and another for tracking player progress. I designed both tables to enforce data integrity by preventing null values in critical fields and ensuring that primary key columns are unique. These design choices showcase my ability to implement effective schema design and input validation. I also demonstrated secure coding practices by using parameterized queries to protect against SQL injection attacks. Additionally, I ensured that the database tables are only created if they do not already exist and implemented logic to update an existing save rather than creating duplicate entries, maintaining data consistency by leveraging the unique username constraint. Through these enhancements, I’ve demonstrated my ability to design, implement, and securely integrate a functional database within a desktop application.</p><br>
+
+<p>✅ <b>Course Outcomes Satisfied</b></p>
 </div>
 
 </details>
