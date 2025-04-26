@@ -26,6 +26,7 @@
 
 <details open>
         <summary>Project Details</summary>
+        <img src="login_screen.png" alt="Software Design Diagram" class="center-image">
         <p>The artifact I chose to enhance is one of the first projects I completed when I started my journey at SNHU back in January or February of 2023. It is a text-based video game that I developed using Python in IT 140: Introduction to Scripting. The goal of the project was to develop a text-based video game that allowed a user to enter the text “Go North, Go South, Go East, or Go West” to navigate through a maze of rooms that was provided to us. We were able to decide the theme of the game, what each room would be, and what items would be available to collect in each room. Each room only had certain directions available depending on the direction of the openings displayed in the provided map. The player had to visit each room and collect an item to have everything necessary to kill the boss in the final room. If the player failed to collect all the items they would lose the boss fight, otherwise they would succeed. I chose this artifact because it was a simple project with a lot of potential, and I knew that with more development knowledge and skills, I could take it much further. Even in its original form, the project demonstrated my ability to code in Python, write modular functions for specific tasks, and create well-organized, well-commented code that was easy to follow. I enjoyed building it and wanted to improve the user experience by making it more engaging.</p>
 
 <div class="centered-text">
