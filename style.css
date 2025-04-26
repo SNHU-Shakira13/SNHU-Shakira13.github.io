@@ -21,8 +21,9 @@ body {
 }
 
 .content {
-    background-color: rgba(255, 255, 255, 1); /* White background behind text */
+    position: relative;
     z-index: 2; 
+    background-color: rgba(255, 255, 255, 1); /* White background behind text */
     color: #000000; /* Black text */
     margin: 30px auto;
     padding: 30px;
