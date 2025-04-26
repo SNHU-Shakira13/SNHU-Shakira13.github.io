@@ -33,7 +33,7 @@
         <img src="login_screen.png" alt="Software Design Diagram" class="center-image">
         
 <p> To satisfy this category I enhanced the project significantly by converting it from Python to C#, restructuring it into multiple classes and methods. I added a database to support user login, saving, and loading game states, which didn't exist before. I’ve also started building the interface using WinForms, separating the login and game screens into two forms for better organization. Security features like input validation, password masking, and character limits were added to the login screen, along with password hashing for secure storage and verification. I implemented error handling to avoid null values and improve performance, and used internal classes with private variables accessed through getters and setters to strengthen encapsulation. These improvements highlight my growth in software development, from basic scripting to building more complex, secure, and user-friendly applications.</p>
-<a href="https://drive.google.com/file/d/1TppenujYq8zQyBxP8UxVRcQMRahrPOal/view?usp=drive_link" target="_blank">View full software design/engineering narrative</a>
+<a href="[https://drive.google.com/file/d/1TppenujYq8zQyBxP8UxVRcQMRahrPOal/view?usp=drive_link](https://github.com/SNHU-Shakira13/SNHU-Shakira13.github.io/blob/main/Milestone_Two_Enhancement.docx)" target="_blank">View full software design/engineering narrative</a>
 <br><br>
         
 <p>📚 <b>Algorithms and Data Structures</b></p>
