@@ -6,6 +6,8 @@
 </head>
 <body>
 
+<div class="overlay"></div>
+
 <div class="content">
     <h1>CS 499 - Computer Science Capstone</h1>
 
