@@ -17,6 +17,8 @@
         <summary>Code Review</summary>
         <p>
         <a href="[https://your-video-link.com](https://drive.google.com/file/d/1TppenujYq8zQyBxP8UxVRcQMRahrPOal/view?usp=drive_link)" target="_blank">Watch Code Review Part 1</a>
+        </p>
+        <p>
         <a href="https://drive.google.com/file/d/1hBxWl3TuKWJgc8fN1FtX9Rb2k8O1Kxcm/view?usp=drive_link" target="_blank">Watch Code Review Part 2</a>
         </p>
         
