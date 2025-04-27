@@ -26,6 +26,9 @@ For my capstone, instead of selecting three separate artifacts, I chose to enhan
     <summary>Code Review</summary>
     <p>This is my code review providing a more in depth explanation of the project I chose to enhance and the changes I plan to make to improve the project.</p>
     <p>
+        <a href="https://drive.google.com/file/d/1TppenujYq8zQyBxP8UxVRcQMRahrPOal/view?usp=drive_link" target="_blank">Orginal Text Based Game Python Code</a>
+    </p>
+    <p>
         <a href="https://drive.google.com/file/d/1TppenujYq8zQyBxP8UxVRcQMRahrPOal/view?usp=drive_link" target="_blank">Watch Code Review Part 1</a>
     </p>
     <p>
